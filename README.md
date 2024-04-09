@@ -64,11 +64,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeoKool&" alt="meokool" /></p>
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a href="https://fb.com/https://www.facebook.com/meo.1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/meo.1202/" height="30" width="40" /></a>
-
-  </div>
-
-  <br/>
