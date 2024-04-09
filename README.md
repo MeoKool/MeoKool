@@ -65,4 +65,10 @@
   <br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeoKool&" alt="meokool" /></p>
+## 📈 Github Stats
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=MeoKool&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MeoKool&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeoKool&theme=tokyonight&layout=compact&langs_count=6">
