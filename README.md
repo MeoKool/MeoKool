@@ -54,17 +54,12 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-6666FF?style=for-the-badge&logo=netlify)
 
+<img src="https://github-readme-stats.vercel.app/api?username=MeoKool&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MeoKool&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<br/>
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
     <a href="https://www.facebook.com/meo.1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/meo.1202/" height="30" width="40" /></a>
 
   </div>
-
-  <br/>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MeoKool&theme=tokyonight&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MeoKool&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
