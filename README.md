@@ -14,7 +14,7 @@
 
 <br/>
 
-<p>- 🌱 I’m currently learning <strong>Java Spring Boot, Python Flask</strong></p>
+<p>- 🌱 I’m currently learning <strong>React Native, NodeJs</strong></p>
 <p>- 📫 How to reach me <strong>truongsyquang1202@gmail.com</strong></p>
 
 
